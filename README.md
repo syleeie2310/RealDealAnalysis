@@ -12,5 +12,6 @@
 
 - 지도 기반 검색데이터 확보가 느려서 1천개만 샘플링
 - 여기에서는 load 함수로 계산된 좌표 값 로딩
+- 외부인터넷이 잡히면 지도 띄울 수 있음. budong.html, map1, map2.html 파일 로딩해볼 , budong.Rmd 파일 R스크립트
 
 Reference : https://cran.r-project.org/web/packages/leaflet.minicharts/vignettes/introduction.html
